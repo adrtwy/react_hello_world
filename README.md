@@ -1,2 +1,2 @@
 # checklist
-This repo prints hellow world using React and NodeJS.
+This repo prints "Hello world!" using React and NodeJS.
